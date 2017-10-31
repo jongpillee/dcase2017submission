@@ -1,0 +1,39 @@
+
+
+Class-based Metrics
+
+	Class = Reversing beeps, Precision = 0.875, Recall = 0.233333333333, F1 Score = 0.368421052632
+	Class = Bicycle, Precision = 0.345454545455, Recall = 0.633333333333, F1 Score = 0.447058823529
+	Class = Fire engine, fire truck (siren), Precision = 0.292134831461, Recall = 0.742857142857, F1 Score = 0.41935483871
+	Class = Bus, Precision = 0.188679245283, Recall = 0.645161290323, F1 Score = 0.29197080292
+	Class = Police car (siren), Precision = 0.277108433735, Recall = 0.657142857143, F1 Score = 0.389830508475
+	Class = Skateboard, Precision = 0.741935483871, Recall = 0.766666666667, F1 Score = 0.754098360656
+	Class = Civil defense siren, Precision = 0.636363636364, Recall = 0.903225806452, F1 Score = 0.746666666667
+	Class = Car passing by, Precision = 0.162790697674, Recall = 0.4375, F1 Score = 0.237288135593
+	Class = Train, Precision = 0.611111111111, Recall = 0.66, F1 Score = 0.634615384615
+	Class = Truck, Precision = 0.251366120219, Recall = 0.766666666667, F1 Score = 0.378600823045
+	Class = Motorcycle, Precision = 0.387755102041, Recall = 0.633333333333, F1 Score = 0.481012658228
+	Class = Car, Precision = 0.172106824926, Recall = 0.966666666667, F1 Score = 0.292191435768
+	Class = Car alarm, Precision = 0.666666666667, Recall = 0.0666666666667, F1 Score = 0.121212121212
+	Class = Air horn, truck horn, Precision = 0.526315789474, Recall = 0.333333333333, F1 Score = 0.408163265306
+	Class = Screaming, Precision = 0.533333333333, Recall = 0.533333333333, F1 Score = 0.533333333333
+	Class = Train horn, Precision = 0.666666666667, Recall = 0.333333333333, F1 Score = 0.444444444444
+	Class = Ambulance (siren), Precision = 0.555555555556, Recall = 0.46875, F1 Score = 0.508474576271
+
+
+	Complete Metrics (Computed Class Wise Average)
+
+	Precision = 46.4137884931
+	Recall = 57.5370809614
+	F1 Score = 51.3803091839
+	Number of Audio Files = 488
+
+
+
+	Complete Metrics (Computed Instance Wise) - These metrics will be used for system evaluation.
+
+	Precision = 30.2707136998
+	Recall = 60.8910891089
+	F1 Score = 40.4383561644
+	Number of Audio Files = 488
+

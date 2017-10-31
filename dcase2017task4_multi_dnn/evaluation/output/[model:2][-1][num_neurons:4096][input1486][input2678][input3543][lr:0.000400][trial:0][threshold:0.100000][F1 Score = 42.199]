@@ -1,0 +1,39 @@
+
+
+Class-based Metrics
+
+	Class = Reversing beeps, Precision = 0.888888888889, Recall = 0.266666666667, F1 Score = 0.410256410256
+	Class = Bicycle, Precision = 0.333333333333, Recall = 0.633333333333, F1 Score = 0.436781609195
+	Class = Fire engine, fire truck (siren), Precision = 0.302325581395, Recall = 0.742857142857, F1 Score = 0.429752066116
+	Class = Bus, Precision = 0.193181818182, Recall = 0.548387096774, F1 Score = 0.285714285714
+	Class = Police car (siren), Precision = 0.329411764706, Recall = 0.8, F1 Score = 0.466666666667
+	Class = Skateboard, Precision = 0.71875, Recall = 0.766666666667, F1 Score = 0.741935483871
+	Class = Civil defense siren, Precision = 0.651162790698, Recall = 0.903225806452, F1 Score = 0.756756756757
+	Class = Car passing by, Precision = 0.168674698795, Recall = 0.4375, F1 Score = 0.24347826087
+	Class = Train, Precision = 0.642857142857, Recall = 0.72, F1 Score = 0.679245283019
+	Class = Truck, Precision = 0.251336898396, Recall = 0.783333333333, F1 Score = 0.380566801619
+	Class = Motorcycle, Precision = 0.408163265306, Recall = 0.666666666667, F1 Score = 0.506329113924
+	Class = Car, Precision = 0.182108626198, Recall = 0.95, F1 Score = 0.30563002681
+	Class = Car alarm, Precision = 0.5, Recall = 0.0333333333333, F1 Score = 0.0625
+	Class = Air horn, truck horn, Precision = 0.647058823529, Recall = 0.366666666667, F1 Score = 0.468085106383
+	Class = Screaming, Precision = 0.551724137931, Recall = 0.533333333333, F1 Score = 0.542372881356
+	Class = Train horn, Precision = 0.785714285714, Recall = 0.366666666667, F1 Score = 0.5
+	Class = Ambulance (siren), Precision = 0.538461538462, Recall = 0.4375, F1 Score = 0.48275862069
+
+
+	Complete Metrics (Computed Class Wise Average)
+
+	Precision = 47.6067858494
+	Recall = 58.565510075
+	F1 Score = 52.5205878243
+	Number of Audio Files = 488
+
+
+
+	Complete Metrics (Computed Instance Wise) - These metrics will be used for system evaluation.
+
+	Precision = 31.9727891156
+	Recall = 62.0462046205
+	F1 Score = 42.1997755331
+	Number of Audio Files = 488
+

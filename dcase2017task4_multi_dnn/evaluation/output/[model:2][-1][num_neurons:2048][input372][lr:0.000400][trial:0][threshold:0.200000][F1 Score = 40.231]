@@ -1,0 +1,39 @@
+
+
+Class-based Metrics
+
+	Class = Reversing beeps, Precision = 1.0, Recall = 0.0333333333333, F1 Score = 0.0645161290323
+	Class = Bicycle, Precision = 0.533333333333, Recall = 0.533333333333, F1 Score = 0.533333333333
+	Class = Fire engine, fire truck (siren), Precision = 0.333333333333, Recall = 0.542857142857, F1 Score = 0.413043478261
+	Class = Bus, Precision = 0.276595744681, Recall = 0.41935483871, F1 Score = 0.333333333333
+	Class = Police car (siren), Precision = 0.295081967213, Recall = 0.514285714286, F1 Score = 0.375
+	Class = Skateboard, Precision = 0.733333333333, Recall = 0.733333333333, F1 Score = 0.733333333333
+	Class = Civil defense siren, Precision = 0.682926829268, Recall = 0.903225806452, F1 Score = 0.777777777778
+	Class = Car passing by, Precision = 0.428571428571, Recall = 0.09375, F1 Score = 0.153846153846
+	Class = Train, Precision = 0.657894736842, Recall = 0.5, F1 Score = 0.568181818182
+	Class = Truck, Precision = 0.320388349515, Recall = 0.55, F1 Score = 0.40490797546
+	Class = Motorcycle, Precision = 0.592592592593, Recall = 0.533333333333, F1 Score = 0.561403508772
+	Class = Car, Precision = 0.18771331058, Recall = 0.916666666667, F1 Score = 0.311614730878
+	Class = Car alarm, Precision = 0.0, Recall = 0.0, F1 Score = 0.0
+	Class = Air horn, truck horn, Precision = 0.833333333333, Recall = 0.166666666667, F1 Score = 0.277777777778
+	Class = Screaming, Precision = 0.578947368421, Recall = 0.366666666667, F1 Score = 0.448979591837
+	Class = Train horn, Precision = 1.0, Recall = 0.2, F1 Score = 0.333333333333
+	Class = Ambulance (siren), Precision = 0.7, Recall = 0.21875, F1 Score = 0.333333333333
+
+
+	Complete Metrics (Computed Class Wise Average)
+
+	Precision = 53.8473274178
+	Recall = 42.5032755037
+	F1 Score = 47.5074929057
+	Number of Audio Files = 488
+
+
+
+	Complete Metrics (Computed Instance Wise) - These metrics will be used for system evaluation.
+
+	Precision = 35.824742268
+	Recall = 45.8745874587
+	F1 Score = 40.2315484805
+	Number of Audio Files = 488
+

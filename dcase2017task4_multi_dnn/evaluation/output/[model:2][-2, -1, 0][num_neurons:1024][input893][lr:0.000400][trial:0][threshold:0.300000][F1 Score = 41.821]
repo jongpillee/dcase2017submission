@@ -1,0 +1,39 @@
+
+
+Class-based Metrics
+
+	Class = Reversing beeps, Precision = 1.0, Recall = 0.1, F1 Score = 0.181818181818
+	Class = Bicycle, Precision = 0.615384615385, Recall = 0.533333333333, F1 Score = 0.571428571429
+	Class = Fire engine, fire truck (siren), Precision = 0.434782608696, Recall = 0.571428571429, F1 Score = 0.493827160494
+	Class = Bus, Precision = 0.391304347826, Recall = 0.290322580645, F1 Score = 0.333333333333
+	Class = Police car (siren), Precision = 0.375, Recall = 0.514285714286, F1 Score = 0.433734939759
+	Class = Skateboard, Precision = 0.863636363636, Recall = 0.633333333333, F1 Score = 0.730769230769
+	Class = Civil defense siren, Precision = 0.722222222222, Recall = 0.838709677419, F1 Score = 0.776119402985
+	Class = Car passing by, Precision = 0.0, Recall = 0.0, F1 Score = 0.0
+	Class = Train, Precision = 0.75, Recall = 0.48, F1 Score = 0.585365853659
+	Class = Truck, Precision = 0.375, Recall = 0.5, F1 Score = 0.428571428571
+	Class = Motorcycle, Precision = 0.631578947368, Recall = 0.4, F1 Score = 0.489795918367
+	Class = Car, Precision = 0.228310502283, Recall = 0.833333333333, F1 Score = 0.358422939068
+	Class = Car alarm, Precision = 0.0, Recall = 0.0, F1 Score = 0.0
+	Class = Air horn, truck horn, Precision = 1.0, Recall = 0.2, F1 Score = 0.333333333333
+	Class = Screaming, Precision = 0.714285714286, Recall = 0.333333333333, F1 Score = 0.454545454545
+	Class = Train horn, Precision = 1.0, Recall = 0.133333333333, F1 Score = 0.235294117647
+	Class = Ambulance (siren), Precision = 1.0, Recall = 0.03125, F1 Score = 0.0606060606061
+
+
+	Complete Metrics (Computed Class Wise Average)
+
+	Precision = 59.4206195394
+	Recall = 37.6039012379
+	F1 Score = 46.0594309718
+	Number of Audio Files = 488
+
+
+
+	Complete Metrics (Computed Instance Wise) - These metrics will be used for system evaluation.
+
+	Precision = 42.7586206897
+	Recall = 40.9240924092
+	F1 Score = 41.8212478921
+	Number of Audio Files = 488
+

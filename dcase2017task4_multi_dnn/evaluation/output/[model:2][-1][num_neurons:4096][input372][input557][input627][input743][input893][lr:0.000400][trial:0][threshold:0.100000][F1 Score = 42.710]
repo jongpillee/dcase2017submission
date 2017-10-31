@@ -1,0 +1,39 @@
+
+
+Class-based Metrics
+
+	Class = Reversing beeps, Precision = 0.833333333333, Recall = 0.333333333333, F1 Score = 0.47619047619
+	Class = Bicycle, Precision = 0.377358490566, Recall = 0.666666666667, F1 Score = 0.481927710843
+	Class = Fire engine, fire truck (siren), Precision = 0.303370786517, Recall = 0.771428571429, F1 Score = 0.435483870968
+	Class = Bus, Precision = 0.2, Recall = 0.645161290323, F1 Score = 0.30534351145
+	Class = Police car (siren), Precision = 0.288888888889, Recall = 0.742857142857, F1 Score = 0.416
+	Class = Skateboard, Precision = 0.666666666667, Recall = 0.8, F1 Score = 0.727272727273
+	Class = Civil defense siren, Precision = 0.583333333333, Recall = 0.903225806452, F1 Score = 0.708860759494
+	Class = Car passing by, Precision = 0.172839506173, Recall = 0.4375, F1 Score = 0.247787610619
+	Class = Train, Precision = 0.62962962963, Recall = 0.68, F1 Score = 0.653846153846
+	Class = Truck, Precision = 0.251336898396, Recall = 0.783333333333, F1 Score = 0.380566801619
+	Class = Motorcycle, Precision = 0.43137254902, Recall = 0.733333333333, F1 Score = 0.543209876543
+	Class = Car, Precision = 0.173134328358, Recall = 0.966666666667, F1 Score = 0.293670886076
+	Class = Car alarm, Precision = 0.6, Recall = 0.2, F1 Score = 0.3
+	Class = Air horn, truck horn, Precision = 0.611111111111, Recall = 0.366666666667, F1 Score = 0.458333333333
+	Class = Screaming, Precision = 0.645161290323, Recall = 0.666666666667, F1 Score = 0.655737704918
+	Class = Train horn, Precision = 0.733333333333, Recall = 0.366666666667, F1 Score = 0.488888888889
+	Class = Ambulance (siren), Precision = 0.551724137931, Recall = 0.5, F1 Score = 0.524590163934
+
+
+	Complete Metrics (Computed Class Wise Average)
+
+	Precision = 47.3682016681
+	Recall = 62.1382714376
+	F1 Score = 53.757154062
+	Number of Audio Files = 488
+
+
+
+	Complete Metrics (Computed Instance Wise) - These metrics will be used for system evaluation.
+
+	Precision = 31.7998385795
+	Recall = 65.0165016502
+	F1 Score = 42.7100271003
+	Number of Audio Files = 488
+
